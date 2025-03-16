@@ -1,4 +1,4 @@
-2 branch13 Airbnb JavaScript Style Guide() {
+3 branch13 Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
